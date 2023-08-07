@@ -132,3 +132,4 @@ Date:   Wed Aug 2 21:01:01 2023 +0300
 [1m+++ b/README.md[m
 [36m@@ -0,0 +1 @@[m
 [32m+[m[32mHello, Hexlet![m
+12+12
